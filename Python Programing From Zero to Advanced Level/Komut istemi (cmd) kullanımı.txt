@@ -1,0 +1,38 @@
+-ilgili klasör içerisindeki tüm dosyaları listelemek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> ls veya dir 
+
+-önceki klasöre gelmek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> cd..
+
+-farklı bir klasöre geçmek için:
+PS C:\Users\TOSHIBA\Desktop> cd Python Tutorial
+
+-c dizinine doğrudan geçmek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> cd\ 
+
+-ekranı temizlemek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> cls veya clear
+
+-klasör oluşturmak için geçmek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> mkdir python_dersleri
+
+-dosya oluşturmak için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> echo $null(veya içerikte yazılabilir) >> first_app.py
+
+-vs code açmak için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> code .
+
+-dosya silmek için:
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> del first_app.py
+
+-klasör silmek için: (dir: directory)
+PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> rmdir python_dersleri
+
+- python dosyasının konumunu bulmak için 
+    PS C:\Users\TOSHIBA\Desktop\Python Tutorial\BTK Akademi- Sifirdan Ileri Seviye Python Programlama> python
+    import sys
+    sys.path
+
+
+
+
