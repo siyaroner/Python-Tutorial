@@ -1,0 +1,166 @@
+--------------------
+Date: 30:4:2022
+Time: 15:21
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module
+--------------------
+Date: 30:4:2022
+Time: 15:23
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:26
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:25
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:35
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:36
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:38
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:39
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 15:40
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 17:54
+Phone number: +905514188473
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 17:55
+Phone number: +905514188473
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 17:57
+Phone number: +905514188473
+Message: This message was sent by Python using pywhatkit module, time:15:23
+--------------------
+Date: 30:4:2022
+Time: 17:98
+Group_id: https://chat.whatsapp.com/CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, time:17:58
+--------------------
+Date: 30:4:2022
+Time: 18:4
+Group_id: CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:03
+--------------------
+Date: 30:4:2022
+Time: 18:9
+Group_id: CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:03
+--------------------
+Date: 30:4:2022
+Time: 18:9
+Group_id: CKMmpgtENDOJwtVSpK2l4E
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:09
+--------------------
+Date: 30:4:2022
+Time: 18:12
+Group_id: LxytBBXQA7KIiBvTmWVqdG
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:09
+--------------------
+Date: 30:4:2022
+Time: 18:15
+Group_id: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:15
+--------------------
+Date: 30:4:2022
+Time: 18:17
+Group_id: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:15
+--------------------
+Date: 30:4:2022
+Time: 18:18
+Group_id: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:18
+--------------------
+Date: 30:4:2022
+Time: 18:19
+Group_id: +905343525244
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:19
+--------------------
+Date: 30:4:2022
+Time: 18:20
+Group_id: +905514188472
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:19
+--------------------
+Date: 30:4:2022
+Time: 18:22
+Group_id: +905514188472
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:22
+--------------------
+Date: 30:4:2022
+Time: 18:22
+Phone number: +905514188472
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:22
+--------------------
+Date: 30:4:2022
+Time: 18:23
+Phone number: +905514188472
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:22
+--------------------
+Date: 30:4:2022
+Time: 18:25
+Phone number: +905514188473
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:25
+--------------------
+Date: 30:4:2022
+Time: 18:28
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:28
+--------------------
+Date: 30:4:2022
+Time: 18:30
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:30
+--------------------
+Date: 30:4:2022
+Time: 18:31
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:31
+--------------------
+Date: 30:4:2022
+Time: 18:32
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:32
+--------------------
+Date: 30:4:2022
+Time: 18:34
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:34
+--------------------
+Date: 30:4:2022
+Time: 18:36
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:36
+--------------------
+Date: 30:4:2022
+Time: 18:37
+Phone number: +905345806017
+Message: This message was sent by Python using pywhatkit module, scheduled time:18:37
+--------------------

@@ -1,0 +1,10 @@
+installing venv:
+    py -m pip install --user virtualenv
+
+Creating venv:
+    py -m venv env
+Activaing venv:
+    .\env\Scripts\activate
+
+Source:
+    https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
